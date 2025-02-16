@@ -55,7 +55,6 @@ main{
 .chat img{
     width: 20px;
     padding: 1px;
-    background-color:rgb(252, 251, 251);
     border-radius: 50px;
     position: absolute;
     top: 1px;
