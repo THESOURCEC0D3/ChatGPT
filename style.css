@@ -51,6 +51,7 @@ main{
 .chatgpt{
     border-width: 0.5px;
    border-radius: 19px;
+   border-color: rgba(192, 190, 190, 0.548);
    width: 22px;
    height: 22px;
    background-color: white;
@@ -194,7 +195,8 @@ form .btn2{
 
 form .btn2 svg{
     color: rgb(105, 101, 101);
-    width: 23px;
+    width: 18px;
+    height: 18px;
 }
 
 form .btn3{
@@ -212,6 +214,12 @@ form .btn3{
 
 form .btn3 svg{
     color: rgb(105, 101, 101);
+    width: 18px;
+    height: 18px;
+}
+
+form span{
+    font-size: 13px;
 }
 
 form .btn4{
